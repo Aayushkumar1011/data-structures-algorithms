@@ -9,7 +9,7 @@ class LargestDivisibleSubset {
         int maxLIS = 1;
         List<Integer> res = new ArrayList<>();
         for(int i = 1; i < size; i++){
-            maxLIS = 1;
+//             maxLIS = 1;
             for(int j = 0; j < i; j++){
                 if(arr[i]%arr[j] == 0 && dp[i] < 1+dp[j]){
                     dp[i] = 1 + dp[j];
