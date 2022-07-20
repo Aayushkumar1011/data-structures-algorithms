@@ -15,4 +15,5 @@ https://github.com/Gobind147/The-Complete-FAANG-Preparation
 
 Roadmap
 
-Day 1 - Leetcode Question 300 & 368
+Day  :  Leetcode Question Number <br/>
+D001 :  [300, 368]
