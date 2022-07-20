@@ -15,7 +15,7 @@ https://github.com/Gobind147/The-Complete-FAANG-Preparation
 
 Roadmap
 
-Day  :  Leetcode Question Number <br/>
+Day__:  Leetcode Question Number <br/>
 D001 :  [300, 368]               <br/>
 D002 :  [673, 646]               <br/>
 
