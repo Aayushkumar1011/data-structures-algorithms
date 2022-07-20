@@ -12,3 +12,7 @@ https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patte
 
 4. The Complete FAANG Preparation <br/>
 https://github.com/Gobind147/The-Complete-FAANG-Preparation
+
+Roadmap
+
+Day 1 - Leetcode Question 300 & 368
