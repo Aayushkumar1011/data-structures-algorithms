@@ -1,5 +1,5 @@
 class LargestDivisibleSubset {    
-  public List<Integer> largestDivisibleSubset(int[] arr) {
+    public List<Integer> largestDivisibleSubset(int[] arr) {
         if(arr.length == 0)
             return new ArrayList<>();
         int size = arr.length;
@@ -9,7 +9,7 @@ class LargestDivisibleSubset {
         int maxLIS = 1;
         List<Integer> res = new ArrayList<>();
         for(int i = 1; i < size; i++){
-//             maxLIS = 1;
+            // maxLIS = 1;
             for(int j = 0; j < i; j++){
                 if(arr[i]%arr[j] == 0 && dp[i] < 1+dp[j]){
                     dp[i] = 1 + dp[j];
@@ -20,7 +20,7 @@ class LargestDivisibleSubset {
         
         int prev = -1;
         for(int i = size-1; i >= 0; i--){
-            if((dp[i] == maxLIS) && (prev%arr[i]%2 == 0 || prev == -1)){
+            if((dp[i] == maxLIS) && (prev%arr[i] == 0 || prev == -1)){
                 maxLIS--;
                 res.add(arr[i]);
                 prev = arr[i];
