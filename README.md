@@ -20,5 +20,6 @@ D001 :  [300, 368]               <br/>
 D002 :  [673, 646]               <br/>
 D003 :  [740, 1048]              <br/>
 D004 :  [416, 1049]              <br/>
+D005 :  [516, IB]                <br/> https://www.interviewbit.com/problems/longest-common-subsequence/ </br>
 
 
