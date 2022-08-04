@@ -20,6 +20,6 @@ D001 :  [ Leetcode 300, Leetcode 368]               <br/>
 D002 :  [ Leetcode 673, Leetcode 646]               <br/>
 D003 :  [ Leetcode 740, Leetcode 1048]              <br/>
 D004 :  [ Leetcode 416, Leetcode 1049]              <br/>
-D005 :  [ Leetcode 516, IB]                https://www.interviewbit.com/problems/longest-common-subsequence/ </br>
+D005 :  [ Leetcode 516, InterviewBit DP LCS]                https://www.interviewbit.com/problems/longest-common-subsequence/ </br>
 
 
